@@ -2,6 +2,8 @@
 
 A simple VueJS web app that generates random quote based on [Quotes and Design API](https://quotesondesign.com/api-v4-0/)
 
+[Demo](https://quotes-generator-vuejs.herokuapp.com/)
+
 ## License
 
 Copyright © 2018 Renzy Ortega
